@@ -1,1 +1,21 @@
 # Customer-Segmentation
+## Important functions/libraries used:
+- data[data['colName']> p & data['colName2']!= q] 
+- df.iterrows()
+- df.loc[]
+- series.nunique()
+- df['colx'](*/-/+)df['coly']
+- df.groupby()
+- LabelEncoder() 
+- pd.to_datetime()
+- lambda x:x.iloc[0]
+- df.agg()
+- df.quantile()
+- df.apply()
+- map()
+- series.value_count()
+- kmeans()
+- silhouette_score()
+- get_dummies()
+- df.mul()/div()
+- df.to_numpy()
